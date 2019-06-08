@@ -1,1 +1,6 @@
-This is the repository for my first alphablog app
+
+Basic Rails Blog App
+users, articles, categories
+authentication, authorization
+user image using gravatar
+tests via minitest
